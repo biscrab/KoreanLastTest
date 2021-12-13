@@ -28,13 +28,12 @@ export const Body = styled.div`
     }
 
     div{
-        display: flex;
     }
 `
 
-export const HL = styled.b`
-    padding: 0px 5px;
-    margin-left: 10px;
+export const HL = styled.span`
+    margin: 0px 5px;
+    font-weight: bold;
     :before{
         content: "-> "
     }
