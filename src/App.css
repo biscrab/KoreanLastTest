@@ -1,0 +1,5 @@
+body, html{
+  overflow-x: hidden;
+  font-family: 'Noto Sans KR', sans-serif;
+  width: 100%;
+}
